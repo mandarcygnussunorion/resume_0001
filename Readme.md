@@ -1,9 +1,6 @@
 # Mandar Shringari
 
-44 Hurworth Avenue,  
-Slough SL3 7FE  
-mandar.v.shringari@gmail.com  
-07438355713  
+
 
 ## EDUCATION
 **Ditton Park Academy** | Sept 2021 - present  
