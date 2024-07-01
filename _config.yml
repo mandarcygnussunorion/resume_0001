@@ -6,6 +6,7 @@ description: >
   experience from internships and engineering competitions.
 theme: jekyll-theme-minimal
 plugins:
-  - jekyll-seo
+  - jekyll-seo-tag # Add SEO plugin
+email: mandar.v.shringari@gmail.com
 
 
